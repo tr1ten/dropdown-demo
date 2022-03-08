@@ -1,0 +1,12 @@
+{
+  "name": "react-select",
+  "version": "0.0.0",
+  "description": "The dropdown select for React.js https://react-select.com/",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-select": "2.0.0",
+    "react-dom": "^16.2.0"
+  },
+  "keywords": []
+}
